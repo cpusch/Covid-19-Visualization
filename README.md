@@ -11,3 +11,8 @@ Visualization of Covid-19 total cases in the United States from January 2020 unt
 Tested and stable in processing version 4.0 beta 2 
 
 Requires the instalation of PeasyCam version 302
+
+
+
+##
+Created May 2021
